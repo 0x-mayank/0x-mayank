@@ -1,18 +1,18 @@
-
 <div align="center">
+
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=32\&duration=3000\&pause=800\&color=00D4FF\&center=true\&vCenter=true\&multiline=true\&width=700\&height=120\&lines=Hi+👋+I'm+Mayank+Mishra;Full-Stack+Developer)
 <br>
 <div>
+
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/0x_may_)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mayankm1946@gmail.com)
 
   </div>
 
-  ---
-
 </div>
 
----
+
 
 ## 👨‍💻 The Developer Behind the Code
 

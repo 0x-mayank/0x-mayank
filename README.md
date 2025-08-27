@@ -1,20 +1,14 @@
+
 <div align="center">
-
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=32\&duration=3000\&pause=800\&color=00D4FF\&center=true\&vCenter=true\&multiline=true\&width=700\&height=120\&lines=Hi+👋+I'm+Mayank+Mishra;Full-Stack+Developer)
 <br>
 <div>
-
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/0x_may_)
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mayankm1946@gmail.com)
 
   </div>
 
   ---
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation" />
-
-[![Profile Views](https://komarev.com/ghpvc/?username=0x-mayank\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)](https://github.com/0x-mayank)
 
 </div>
 

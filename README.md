@@ -10,16 +10,19 @@
 
   </div>
 
+  ---
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=0x-mayank\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)](https://github.com/0x-mayank)
+
 </div>
 
-
+---
 
 ## 👨‍💻 The Developer Behind the Code
 
-<div align="center">
-<table border="0">
-<tr>
-<td width="150%" align="left">
+<div align="left">
 
 ```javascript
 const developer = {
@@ -31,12 +34,7 @@ const developer = {
   workingOn: "Full-Stack Projects with React & Node.js"
 };
 ```
-
-</td>
-</tr>
-</table>
 </div>
-
 <details>
 <summary>🎪 <strong>Click for Developer Secrets!</strong></summary>
 <br>
@@ -57,43 +55,20 @@ const developer = {
 
 ---
 
-## 🛠️ Tech Stack & Development Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 💻 **Programming Languages**
+| 💻 Languages | 🎨 Frontend |
+|--------------|-------------|
+| <img src="https://skillicons.dev/icons?i=c,cpp,java,js" height="40"/> | <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" height="40"/> |
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-
-### 🎨 **Frontend Development**
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
-
-### ⚙️ **Backend Development**
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge\&logo=nodemon\&logoColor=%23BBDEAD)
-
-### 🗄️ **Database & Tools**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge\&logo=insomnia\&logoColor=5849BE)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+| ⚙️ Backend | 🗄️ Database & Tools |
+|------------|----------------------|
+| <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/> <br> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black"/> | <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" height="40"/> |
 
 </div>
 
----
 
 ## 📊 GitHub Analytics Dashboard
 
@@ -101,13 +76,13 @@ const developer = {
 
 
 
-<img width="33%" src="https://github-readme-stats.vercel.app/api?username=0x-mayank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api?username=0x-mayank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
 
 
-<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-mayank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-mayank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
 
 
-<img width="33%" src="https://streak-stats.demolab.com?user=0x-mayank&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+<img width="40%" src="https://streak-stats.demolab.com?user=0x-mayank&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 <br/>
 </div>
 
@@ -117,11 +92,3 @@ const developer = {
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="thanks gif" />
 
 ---
-
-<div align="center">
-
-<br>
-
-<sub>💜 <em>Made with passion, powered by curiosity, and lots of Stack Overflow!</em> 💜</sub>
-
-</div>

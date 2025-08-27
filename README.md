@@ -1,12 +1,133 @@
-<h1 align="center">Hi 👋, I'm Mayank Mishra</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<div align="center">
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/0x_may_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mayankm1946@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0x-mayank&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=0x-mayank&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0x-mayank&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&weight=600\&size=32\&duration=3000\&pause=800\&color=00D4FF\&center=true\&vCenter=true\&multiline=true\&width=700\&height=120\&lines=Hi+👋+I'm+Mayank+Mishra;Full-Stack+Developer)
+<br>
+<div>
+
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/0x_may_)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mayankm1946@gmail.com)
+
+  </div>
+
+  ---
+
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Developer animation" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=0x-mayank\&label=Profile%20Views\&color=blueviolet\&style=for-the-badge)](https://github.com/0x-mayank)
+
+</div>
+
+---
+
+## 👨‍💻 The Developer Behind the Code
+
+<div align="center">
+<table border="0">
+<tr>
+<td width="150%" align="left">
+
+```javascript
+const developer = {
+  name: "Mayank Mishra",
+  location: "India",
+  role: "Full-Stack Developer",
+  expertise: ["Javascript", "React"],
+  currentFocus: "Learning Backend",
+  workingOn: "Full-Stack Projects with React & Node.js"
+};
+```
+
+</td>
+</tr>
+</table>
+</div>
+
+<details>
+<summary>🎪 <strong>Click for Developer Secrets!</strong></summary>
+<br>
+<div align="center">
+
+### **Developer Confessions**
+
+> *"I have 50+ VS Code extensions and use maybe 10 of them"*
+>
+> *"I can center a div... most of the time"*
+
+**Dev Life:** Started with "Hello World" in C++, fell in love with JavaScript, mastered React, now conquering the full-stack universe!
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="coding gif" />
+
+</div>
+</details>
+
+---
+
+## 🛠️ Tech Stack & Development Arsenal
+
+<div align="center">
+
+### 💻 **Programming Languages**
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
+
+### 🎨 **Frontend Development**
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge\&logo=vite\&logoColor=white)
+
+### ⚙️ **Backend Development**
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
+![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge\&logo=nodemon\&logoColor=%23BBDEAD)
+
+### 🗄️ **Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge\&logo=insomnia\&logoColor=5849BE)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge\&logo=Canva\&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics Dashboard
+
+<div align="center">
+
+
+
+<img width="33%" src="https://github-readme-stats.vercel.app/api?username=0x-mayank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=1f6feb&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
+
+
+<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x-mayank&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
+
+
+<img width="33%" src="https://streak-stats.demolab.com?user=0x-mayank&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=1f6feb&fire=58a6ff&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+<br/>
+</div>
+
+---
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" alt="thanks gif" />
+
+---
+
+<div align="center">
+
+<br>
+
+<sub>💜 <em>Made with passion, powered by curiosity, and lots of Stack Overflow!</em> 💜</sub>
+
+</div>

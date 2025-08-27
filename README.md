@@ -65,7 +65,7 @@ const developer = {
 
 | ⚙️ Backend | 🗄️ Database & Tools |
 |------------|----------------------|
-| <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/> <br> <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/> <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=black"/> | <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>  | <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" height="40"/> |
 
 </div>
 

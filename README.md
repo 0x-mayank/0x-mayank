@@ -63,7 +63,7 @@ const developer = {
 
 | ⚙️ Backend | 🗄️ Database & Tools |
 |------------|----------------------|
-| <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>  | <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode" height="40"/> |
+| <img src="https://skillicons.dev/icons?i=nodejs,express" height="40"/>  | <img src="https://skillicons.dev/icons?i=mongodb,git,github,postman,vscode,vercel,netlify" height="40"/> |
 
 </div>
 
